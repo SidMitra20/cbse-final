@@ -1,0 +1,17 @@
+========================================
+             ABOUT AIRBNB               
+========================================
+
+Welcome to the Airbnb Vacation Rental App!
+
+Our platform connects travelers with unique homes, 
+cozy apartments, oceanfront villas, and mountain chalets 
+all around the globe.
+
+Key Features of Our System:
+- Explore top destinations (City, Mountains, Beaches, Island)
+- View stay details and real-time availability
+- Book stays with date validation & database persistence
+- Built with Python Tkinter, MySQL, and File Handling
+
+Developed for CBSE Class 12 Computer Science Project.
